@@ -5,7 +5,7 @@
 name: Github Actions Testing
 on: [push]
 jobs:
-  build-app:
+  hello-world:
     runs-on: ubuntu-latest
     steps:
       - name: Hello-World
